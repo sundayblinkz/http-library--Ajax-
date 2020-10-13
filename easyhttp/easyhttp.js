@@ -1,6 +1,6 @@
-// function easyHTTP() {
-//   this.http = new XMLHttpRequest();
-// }
+function easyHTTP() {
+  this.http = new XMLHttpRequest();
+}
 
 // Make an HTTP GET Request
 // easyHTTP.prototype.get = function(url, callback) {
